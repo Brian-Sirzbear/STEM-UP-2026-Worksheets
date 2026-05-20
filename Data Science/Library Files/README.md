@@ -1,0 +1,1 @@
+This contains all the files needed to create and run the Student Library. Place these ALL in the same folder. If it works correctly, a .json file called student_library should be created in the same place when you run the new_entry file.
