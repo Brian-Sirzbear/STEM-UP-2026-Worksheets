@@ -8,6 +8,7 @@ from IPython.display import display, HTML
 
 FILE = "student_library.json"
 
+# VERSION 1.0 (5/20/2026)
 
 class LibraryViewer:
 
