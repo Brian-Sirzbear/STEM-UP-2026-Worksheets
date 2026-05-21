@@ -18,6 +18,7 @@ class LibraryUI:
             'Function',
             'Method',
             'Index',
+            'Conditional/Qualifier',
             'Other'
         ]
 
