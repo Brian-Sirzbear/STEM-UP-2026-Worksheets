@@ -15,6 +15,7 @@ CODE_STRUCTURES = [
     'Function',
     'Method',
     'Index',
+    'Conditional/Qualifier',
     'Other'
 ]
 
