@@ -16,4 +16,7 @@ This contains all the files needed to create and run the Student Library. Place 
 * Added full edit capabilities to all parts of each entry, including the inputs
 * Contracting/Expanding for entries (each entry takes up less space)
 * Split the interface into two columns to display more at once
-* 
+
+## 1.2 (5/21/2026):
+* Implemented Example Submission features, modifications, and deletions for all entries
+* Included Conditionals/Qualifiers as another code structure.
