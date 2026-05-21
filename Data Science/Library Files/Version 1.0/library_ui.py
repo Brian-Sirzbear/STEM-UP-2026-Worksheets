@@ -2,6 +2,7 @@ import ipywidgets as widgets
 from IPython.display import display, HTML
 import numpy as np
 
+# VERSION 1.0 (5/20/2026)
 
 class LibraryUI:
 
