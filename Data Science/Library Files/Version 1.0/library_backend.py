@@ -5,6 +5,7 @@ import tempfile
 
 FILE = "student_library.json"
 
+# VERSION 1.0 (5/20/2026)
 
 # ---------------------------------------------
 # FILE MANAGEMENT
