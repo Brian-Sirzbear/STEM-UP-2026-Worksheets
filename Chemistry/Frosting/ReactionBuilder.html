@@ -83,7 +83,7 @@
 }
     return text
       .replace(/\^([0-9]*[+-])/g, '<sup>$1</sup>')
-      .replace(/([A-Za-z])(\d+)/g, '$1<sub>$2</sub>');
+      .replace(/([A-Za-z])(\d+)/g, '\$1<sub>\$2</sub>');
   }
 
 function normalize(v) {
