@@ -3,4 +3,3 @@
 * This was created as befit suggestions in Google Doc.
 * Also included is the Least Squares method from Caffeine Lab.
 * To avoid repetition, I will reduce the space taken up by the LS method in the new version of Caffeine.
-* This does NOT contain the Glass activity.
