@@ -3,3 +3,7 @@
 * This was created as befit suggestions in Google Doc.
 * Also included is the Least Squares method from Caffeine Lab.
 * To avoid repetition, I will reduce the space taken up by the LS method in the new version of Caffeine.
+
+## Version 1.1 (5/28/2026)
+* Moved the Best Fit away to a separate document
+* 
